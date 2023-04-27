@@ -98,14 +98,23 @@ cat >/etc/xray/domain <<EOF
 aalva.my.id
 EOF
 ```
+5. Install dan Jalankan screen untuk menghindari gagal installasi
+```
+apt-get install screen && screen -R vps
+```
 
-5. Salin kode di bawah ini dan paste kan ke dalam vps punya kamu
+- Jika koneksi terputus saat proses installasi cukup jalankan sintaks dibawah
+```
+screen -R vps
+```
+
+6. Salin kode di bawah ini dan paste kan ke dalam vps punya kamu
 - maka proses install akan berjalan, jangan keluar dari vps
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 ```
 wget https://raw.githubusercontent.com/aalva16/xray-scriptvps/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
-6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
+7. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=menu" />
 </p>
@@ -113,7 +122,7 @@ wget https://raw.githubusercontent.com/aalva16/xray-scriptvps/main/setup.sh && c
 ```
 menu
 ```
-7. DONE / SELESAI
+8. DONE / SELESAI
 
 # Info Perbaiki / FIX
 - ***NOTE***
