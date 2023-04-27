@@ -159,7 +159,7 @@ DOMAIN=aalva.my.id
 SUB_DOMAIN=onichan-${sub}.aalva.my.id
 NS_DOMAIN=zerosl-${sub}.aalva.my.id
 CF_ID=aalva@gmail.com
-CF_KEY=dd2c5e0313f122b3c1833471d469b1025f492
+CF_KEY=dd2c5e0313f122b3c18xxxxxxx
 ```
 - Lalu ubah juga CF_ID= isi dengan alamat email cloudflare kamu
 - CF_KEY= isi dengan YOUR API KEY (GLOBAL API KEY)
