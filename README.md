@@ -7,7 +7,7 @@
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 
 # VERSI SL
-*Link : https://github.com/fisabiliyusri/XRAY-MANTAP
+- Link : https://github.com/fisabiliyusri/XRAY-MANTAP
 
 
 # FITUR XRAY TLS
